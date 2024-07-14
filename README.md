@@ -51,6 +51,7 @@ I am a DevOps Engineer with over 4 years of hands-on work experience in more tha
 ➤ 	Automated infrastructure deployments and routine tasks, improving efficiency and reducing manual work.
 
 
+
 - **Tech stacks:** AWS, AWS EKS, Kubernetes, Docker, RDS, Ansible, Kafka, Airflow, Snowflake, Python, Golang, Django, DynamoDB, Nginx, FastAPI, Terraform
 - **Industry:** Real Estate Projects, Hospitality Projects, E-commerce
 
